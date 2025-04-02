@@ -1,29 +1,18 @@
+import java.io.IOException;
 import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        Grafo grafo = new Grafo();
+        Grafo grafo;
+        try {
+            grafo = LeitorArquivo.lerArquivo("C:\\Users\\vitor\\Grafo\\Dados");
+        } catch (IOException e) {
+            System.out.println("Erro ao ler o arquivo: " + e.getMessage());
+            return;
+        }
+
         Scanner scanner = new Scanner(System.in);
-        // Criando cidades
-        Cidade a = new Cidade("São Paulo");
-        Cidade b = new Cidade("Rio de Janeiro");
-        Cidade c = new Cidade("Belo Horizonte");
-        Cidade d = new Cidade("Curitiba");
 
-        // Adicionando cidades ao grafo
-        grafo.adicionarCidade(a);
-        grafo.adicionarCidade(b);
-        grafo.adicionarCidade(c);
-        grafo.adicionarCidade(d);
-
-        // Adicionando rotas entre cidades
-        grafo.adicionarRota(a, b, 430); // SP -> RJ
-        grafo.adicionarRota(a, c, 580); // SP -> BH
-        grafo.adicionarRota(b, c, 340); // RJ -> BH
-        grafo.adicionarRota(a, d, 408); // SP -> Curitiba
-        grafo.adicionarRota(d, c, 1000); // Curitiba -> BH
-
-        // Testando menor rota de São Paulo para Belo Horizonte
         System.out.println("Digite a cidade de origem:");
         String origemNome = scanner.nextLine();
         System.out.println("Digite a cidade de destino:");
@@ -37,9 +26,16 @@ public class Main {
         } else {
             Rota resultado = Dijkstra.encontrarMenorCaminho(grafo, origem, destino);
 
-            // Exibir resultado
             System.out.println("Menor rota encontrada:");
             System.out.println(resultado);
+
+            System.out.println("Pontos turísticos ao longo do caminho:");
+            for (Cidade cidade : resultado.getCaminho()) {
+                System.out.println("Em " + cidade.getNome() + ":");
+                for (PontoTuristico ponto : cidade.getPontosTuristicos()) {
+                    System.out.println(" - " + ponto);
+                }
+            }
         }
     }
 

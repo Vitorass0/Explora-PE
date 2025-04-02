@@ -1,0 +1,68 @@
+cidade;Recife
+cidade;Ipojuca
+cidade;Olinda
+cidade;Caruaru
+cidade;Garanhuns
+cidade;Tamandaré
+cidade;Triunfo
+cidade;Petrolina
+cidade;Cabo de Santo Agostinho
+cidade;Ilha de Itamaracá
+cidade;Bezerros
+cidade;Gravatá
+cidade;Bonito
+cidade;Serra Talhada
+cidade;Arcoverde
+cidade;Pesqueira
+cidade;Exu
+ponto;Recife;Marco zero
+ponto;Recife;Instituto Ricardo Brennand
+ponto;Recife;Praia de Boa Viagem
+ponto;Recife;Zoológico Dois Irmãos
+ponto;Ipojuca;Porto de Galinhas
+ponto;Ipojuca;Praia de Muro Alto
+ponto;Ipojuca;Praia de Maracaípe
+ponto;Olinda;Centro Histórico de Olinda
+ponto;Olinda;Alto da Sé
+ponto;Olinda;Igreja e Mosteiro de São Bento
+ponto;Caruaru;Alto do Moura
+ponto;Caruaru;Museu do Barro
+ponto;Garanhuns;Relógio das Flores
+ponto;Garanhuns;Parque Euclides Dourado
+ponto;Garanhuns;Parque Ruber Van Der Linden(Pau Pombo)
+ponto;Tamandaré;Praia de Carneiros
+ponto;Triunfo;Engenho São Pedro
+ponto;Triunfo;Cine Teatro Guarany
+ponto;Petrolina;Ilha do Rodeadouro
+ponto;Petrolina;Vinhas do Vale do São Francisco
+ponto;Cabo de Santo Agostinho;Praia de Calhetas
+ponto;Cabo de Santo Agostinho;Ruínas do Convento Carmelita
+ponto;Ilha de Itamaracá;Forte Orange
+ponto;Ilha de Itamaracá;Projeto Peixe-Boi
+ponto;Bezerros;Serra Negra
+ponto;Bezerros;Centro de Artesanato
+ponto;Gravatá;Polo Moveleiro
+ponto;Gravatá;Alto do Cruzeiro
+ponto;Bonito;Cachoeiras
+ponto;Serra Talhada;Museu do Cangaço
+ponto;Arcoverde;Pedra do Cruzeiro
+ponto;Pesqueira;Santuário de Nossa Senhora das Graças
+ponto;Pesqueira;Castelo de Pesqueira
+ponto;Exu;Museu Luiz Gonzaga
+rota;Recife;Olinda;10
+rota;Recife;Ipojuca;60
+rota;Recife;Caruaru;130
+rota;Olinda;Caruaru;140
+rota;Caruaru;Garanhuns;70
+rota;Garanhuns;Tamandaré;90
+rota;Tamandaré;Triunfo;150
+rota;Triunfo;Petrolina;200
+rota;Petrolina;Cabo de Santo Agostinho;180
+rota;Cabo de Santo Agostinho;Ilha de Itamaracá;50
+rota;Ilha de Itamaracá;Bezerros;120
+rota;Bezerros;Gravatá;30
+rota;Gravatá;Bonito;40
+rota;Bonito;Serra Talhada;100
+rota;Serra Talhada;Arcoverde;80
+rota;Arcoverde;Pesqueira;60
+rota;Pesqueira;Exu;150
