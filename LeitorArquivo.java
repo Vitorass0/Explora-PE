@@ -6,7 +6,6 @@ import java.io.IOException;
 public class LeitorArquivo {
     public static Grafo lerArquivo(String caminhoArquivo) throws IOException {
         File arquivo = new File(caminhoArquivo);
-      //  System.out.println("Caminho absoluto do arquivo: " + arquivo.getAbsolutePath());
         if (!arquivo.exists()) {
             throw new IOException("Arquivo não encontrado: " + caminhoArquivo);
         }
