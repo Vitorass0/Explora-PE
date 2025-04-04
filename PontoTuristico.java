@@ -1,4 +1,4 @@
-class PontoTuristico {
+public class PontoTuristico {
     private String nome;
 
     public PontoTuristico(String nome) {
