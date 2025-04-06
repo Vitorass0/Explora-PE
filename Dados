@@ -264,7 +264,7 @@ rota;Arcoverde;Pesqueira;43
 rota;Arcoverde;Sertânia;58
 rota;Arcoverde;Buíque;27
 rota;Arcoverde;Pedra;19
-rota;Arcoverde;Ibimirim;78
+rota;Arcoverde;Ibimirim;80
 rota;Barra de Guabiraba;Gravatá;40
 rota;Barra de Guabiraba;Sairé;14
 rota;Barra de Guabiraba;Bonito;16
@@ -339,8 +339,8 @@ rota;Cachoeirinha;São Bento do Una;30
 rota;Cachoeirinha;São Caitano;21
 rota;Caetés;Paranatama;19
 rota;Caetés;Capoeiras;5
-rota;Caetés;Venturosa;36
-rota;Caetés;Garanhuns;18
+rota;Caetés;Venturosa;39
+rota;Caetés;Garanhuns;21
 rota;Calçado;Lajedo;9
 rota;Calçado;Jupi;11
 rota;Calumbi;Triunfo;17
@@ -366,8 +366,8 @@ rota;Carpina;Tracunhaém;4
 rota;Carpina;Lagoa do Carro;6
 rota;Carpina;Lagoa de Itaenga;15
 rota;Carpina;Nazaré da Mata;12
-rota;Caruaru;Frei Miguelinho;34
-rota;Caruaru;Toritama;20
+rota;Caruaru;Frei Miguelinho;45
+rota;Caruaru;Toritama;36
 rota;Caruaru;Riacho das Almas;35
 rota;Caruaru;São Caitano;23
 rota;Casinhas;Vertente do Lério;17
@@ -397,7 +397,7 @@ rota;Cupira;Panelas;13
 rota;Cupira;Lagoa dos Gatos;10
 rota;Cupira;São Joaquim do Monte;43
 rota;Custódia;Sertânia;42
-rota;Custódia;Flores;50
+rota;Custódia;Flores;51
 rota;Custódia;Iguaracy;34
 rota;Custódia;Floresta;161
 rota;Custódia;Ibimirim;107
@@ -416,7 +416,7 @@ rota;Feira Nova;Limoeiro;11
 rota;Feira Nova;Lagoa de Itaenga;14
 rota;Ferreiros;Timbaúba;10
 rota;Ferreiros;Itambé;25
-rota;Flores;Triunfo;16
+rota;Flores;Triunfo;19
 rota;Floresta;Ibimirim;90
 rota;Floresta;Serra Talhada;80
 rota;Floresta;Petrolândia;59
@@ -548,7 +548,7 @@ rota;Passira;Pombos;36
 rota;Paudalho;São Lourenço da Mata;19
 rota;Pedra;Alagoinha;30
 rota;Pedra;Venturosa;13
-rota;Pesqueira;Sanharó;17
+rota;Pesqueira;Sanharó;16
 rota;Pesqueira;Poção;27
 rota;Petrolândia;Tacaratu;23
 rota;Pombos;Vitória de Santo Antão;9
@@ -562,11 +562,11 @@ rota;Salgueiro;Serrita;23
 rota;Salgueiro;Verdejante;25
 rota;Saloá;Terezinha;14
 rota;Santa Cruz;Santa Filomena;36
-rota;Santa Cruz da Baixa Verde;Triunfo;5
-rota;Santa Cruz da Baixa Verde;Serra Talhada;20
+rota;Santa Cruz da Baixa Verde;Triunfo;7
+rota;Santa Cruz da Baixa Verde;Serra Talhada;26
 rota;Santa Cruz do Capibaribe;Taquaritinga do Norte;22
 rota;Santa Maria do Cambucá;Vertente do Lério;8
-rota;Santa Maria do Cambucá;Vertentes;15
+rota;Santa Maria do Cambucá;Vertentes;18
 rota;Santa Maria do Cambucá;Surubim;15
 rota;Santa Terezinha;São José do Egito;36
 rota;Santa Terezinha;Tabira;40
@@ -579,6 +579,11 @@ rota;São Vicente Férrer;Vicência;26
 rota;Solidão;Tabira;14
 rota;Surubim;Vertente do Lério;13
 rota;Taquaritinga do Norte;Vertentes;9
-rota;Toritama;Vertentes;12
+rota;Toritama;Vertentes;15
 rota;Recife;Moreno;30
 rota;Garanhuns;Jupi;24
+rota;Surubim;Vertentes;25
+rota;Salgueiro;Parnamirim;51
+rota;Salgueiro;Serra Talhada;99
+rota;Serra Talhada;Custódia;77
+rota;Custódia;Arcoverde;79
