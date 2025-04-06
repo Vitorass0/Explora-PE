@@ -1,0 +1,584 @@
+cidade;Abreu e Lima
+cidade;Afogados da Ingazeira
+cidade;Afrânio
+cidade;Agrestina
+cidade;Água Preta
+cidade;Águas Belas
+cidade;Alagoinha
+cidade;Aliança
+cidade;Altinho
+cidade;Amaraji
+cidade;Angelim
+cidade;Araçoiaba
+cidade;Araripina
+cidade;Arcoverde
+cidade;Barra de Guabiraba
+cidade;Barreiros
+cidade;Belém de Maria
+cidade;Belém do São Francisco
+cidade;Belo Jardim
+cidade;Betânia
+cidade;Bezerros
+cidade;Bodocó
+cidade;Bom Conselho
+cidade;Bom Jardim
+cidade;Bonito
+cidade;Brejão
+cidade;Brejinho
+cidade;Brejo da Madre de Deus
+cidade;Buenos Aires
+cidade;Buíque
+cidade;Cabo de Santo Agostinho
+cidade;Cabrobó
+cidade;Cachoeirinha
+cidade;Caetés
+cidade;Calçado
+cidade;Calumbi
+cidade;Camaragibe
+cidade;Camocim de São Félix
+cidade;Camutanga
+cidade;Canhotinho
+cidade;Capoeiras
+cidade;Carnaíba
+cidade;Carnaubeira da Penha
+cidade;Carpina
+cidade;Caruaru
+cidade;Casinhas
+cidade;Catende
+cidade;Cedro
+cidade;Chã de Alegria
+cidade;Chã Grande
+cidade;Condado
+cidade;Correntes
+cidade;Cortês
+cidade;Cumaru
+cidade;Cupira
+cidade;Custódia
+cidade;Dormentes
+cidade;Escada
+cidade;Exu
+cidade;Feira Nova
+cidade;Fernando de Noronha
+cidade;Ferreiros
+cidade;Flores
+cidade;Floresta
+cidade;Frei Miguelinho
+cidade;Gameleira
+cidade;Garanhuns
+cidade;Glória do Goitá
+cidade;Goiana
+cidade;Granito
+cidade;Gravatá
+cidade;Iati
+cidade;Ibimirim
+cidade;Ibirajuba
+cidade;Igarassu
+cidade;Iguaracy
+cidade;Inajá
+cidade;Ingazeira
+cidade;Ipojuca
+cidade;Ipubi
+cidade;Itacuruba
+cidade;Itaíba
+cidade;Ilha de Itamaracá
+cidade;Itambé
+cidade;Itapetim
+cidade;Itapissuma
+cidade;Itaquitinga
+cidade;Jaboatão dos Guararapes
+cidade;Jaqueira
+cidade;Jataúba
+cidade;Jatobá
+cidade;João Alfredo
+cidade;Joaquim Nabuco
+cidade;Jucati
+cidade;Jupi
+cidade;Jurema
+cidade;Lagoa do Carro
+cidade;Lagoa de Itaenga
+cidade;Lagoa do Ouro
+cidade;Lagoa dos Gatos
+cidade;Lagoa Grande
+cidade;Lajedo
+cidade;Limoeiro
+cidade;Macaparana
+cidade;Machados
+cidade;Manari
+cidade;Maraial
+cidade;Mirandiba
+cidade;Moreilândia
+cidade;Moreno
+cidade;Nazaré da Mata
+cidade;Olinda
+cidade;Orobó
+cidade;Orocó
+cidade;Ouricuri
+cidade;Palmares
+cidade;Palmeirina
+cidade;Panelas
+cidade;Paranatama
+cidade;Parnamirim
+cidade;Passira
+cidade;Paudalho
+cidade;Paulista
+cidade;Pedra
+cidade;Pesqueira
+cidade;Petrolândia
+cidade;Petrolina
+cidade;Poção
+cidade;Pombos
+cidade;Primavera
+cidade;Quipapá
+cidade;Quixaba
+cidade;Recife
+cidade;Riacho das Almas
+cidade;Ribeirão
+cidade;Rio Formoso
+cidade;Sairé
+cidade;Salgadinho
+cidade;Salgueiro
+cidade;Saloá
+cidade;Sanharó
+cidade;Santa Cruz
+cidade;Santa Cruz da Baixa Verde
+cidade;Santa Cruz do Capibaribe
+cidade;Santa Filomena
+cidade;Santa Maria da Boa Vista
+cidade;Santa Maria do Cambucá
+cidade;Santa Terezinha
+cidade;São Benedito do Sul
+cidade;São Bento do Una
+cidade;São Caitano
+cidade;São Joaquim do Monte
+cidade;São João
+cidade;São José da Coroa Grande
+cidade;São José do Belmonte
+cidade;São José do Egito
+cidade;São Lourenço da Mata
+cidade;São Vicente Férrer
+cidade;Serra Talhada
+cidade;Serrita
+cidade;Sertânia
+cidade;Sirinhaém
+cidade;Solidão
+cidade;Surubim
+cidade;Tabira
+cidade;Tacaimbó
+cidade;Tacaratu
+cidade;Tamandaré
+cidade;Taquaritinga do Norte
+cidade;Terezinha
+cidade;Terra Nova
+cidade;Timbaúba
+cidade;Toritama
+cidade;Tracunhaém
+cidade;Trindade
+cidade;Triunfo
+cidade;Tupanatinga
+cidade;Tuparetama
+cidade;Venturosa
+cidade;Verdejante
+cidade;Vertente do Lério
+cidade;Vertentes
+cidade;Vicência
+cidade;Vitória de Santo Antão
+cidade;Xexéu
+ponto;Recife;Marco zero
+ponto;Recife;Instituto Ricardo Brennand
+ponto;Recife;Praia de Boa Viagem
+ponto;Recife;Zoológico Dois Irmãos
+ponto;Ipojuca;Porto de Galinhas
+ponto;Ipojuca;Praia de Muro Alto
+ponto;Ipojuca;Praia de Maracaípe
+ponto;Olinda;Centro Histórico de Olinda
+ponto;Olinda;Alto da Sé
+ponto;Olinda;Igreja e Mosteiro de São Bento
+ponto;Caruaru;Alto do Moura
+ponto;Caruaru;Museu do Barro
+ponto;Garanhuns;Relógio das Flores
+ponto;Garanhuns;Parque Euclides Dourado
+ponto;Garanhuns;Parque Ruber Van Der Linden(Pau Pombo)
+ponto;Tamandaré;Praia de Carneiros
+ponto;Triunfo;Engenho São Pedro
+ponto;Triunfo;Cine Teatro Guarany
+ponto;Petrolina;Ilha do Rodeadouro
+ponto;Petrolina;Vinhas do Vale do São Francisco
+ponto;Cabo de Santo Agostinho;Praia de Calhetas
+ponto;Cabo de Santo Agostinho;Ruínas do Convento Carmelita
+ponto;Ilha de Itamaracá;Forte Orange
+ponto;Ilha de Itamaracá;Projeto Peixe-Boi
+ponto;Bezerros;Serra Negra
+ponto;Bezerros;Centro de Artesanato
+ponto;Gravatá;Polo Moveleiro
+ponto;Gravatá;Alto do Cruzeiro
+ponto;Bonito;Cachoeiras
+ponto;Serra Talhada;Museu do Cangaço
+ponto;Arcoverde;Pedra do Cruzeiro
+ponto;Pesqueira;Santuário de Nossa Senhora das Graças
+ponto;Pesqueira;Castelo de Pesqueira
+ponto;Exu;Museu Luiz Gonzaga
+rota;Abreu e Lima;Paudalho;37
+rota;Abreu e Lima;Igarassu;8
+rota;Abreu e Lima;Paulista;5
+rota;Abreu e Lima;Araçoiaba;38
+rota;Afogados da Ingazeira;Iguaracy;19
+rota;Afogados da Ingazeira;Tabira;24
+rota;Afogados da Ingazeira;Carnaíba;21
+rota;Afogados da Ingazeira;Solidão;31
+rota;Afrânio;Dormentes;31
+rota;Afrânio;Petrolina;120
+rota;Agrestina;Caruaru;23
+rota;Agrestina;São Joaquim do Monte;28
+rota;Agrestina;Cupira;19
+rota;Agrestina;Altinho;14
+rota;Água Preta;Ribeirão;44
+rota;Água Preta;Barreiros;46
+rota;Água Preta;Palmares;9
+rota;Água Preta;Joaquim Nabuco;19
+rota;Águas Belas;Iati;39
+rota;Águas Belas;Paranatama;66
+rota;Águas Belas;Itaíba;39
+rota;Alagoinha;Pesqueira;16
+rota;Alagoinha;Venturosa;18
+rota;Aliança;Condado;18
+rota;Aliança;Timbaúba;17
+rota;Aliança;Vicência;17
+rota;Aliança;Buenos Aires;27
+rota;Aliança;Itambé;40
+rota;Altinho;Cachoeirinha;22
+rota;Altinho;Ibirajuba;15
+rota;Altinho;Caruaru;34
+rota;Amaraji;Chã Grande;22
+rota;Amaraji;Ribeirão;39
+rota;Amaraji;Primavera;16
+rota;Amaraji;Cortês;16
+rota;Angelim;Calçado;29
+rota;Angelim;Palmeirina;16
+rota;Angelim;São João;12
+rota;Angelim;Canhotinho;12
+rota;Araçoiaba;Carpina;24
+rota;Araçoiaba;Igarassu;31
+rota;Araçoiaba;Tracunhaém;26
+rota;Araripina;Trindade;35
+rota;Arcoverde;Pesqueira;43
+rota;Arcoverde;Sertânia;58
+rota;Arcoverde;Buíque;27
+rota;Arcoverde;Pedra;19
+rota;Arcoverde;Ibimirim;78
+rota;Barra de Guabiraba;Gravatá;40
+rota;Barra de Guabiraba;Sairé;14
+rota;Barra de Guabiraba;Bonito;16
+rota;Barra de Guabiraba;Cortês;18
+rota;Barreiros;São José da Coroa Grande;12
+rota;Barreiros;Tamandaré;20
+rota;Belém de Maria;Catende;18
+rota;Belém de Maria;Lagoa dos Gatos;14
+rota;Belém de Maria;São Joaquim do Monte;29
+rota;Belém de Maria;Bonito;34
+rota;Belém de Maria;Cupira;16
+rota;Belém do São Francisco;Floresta;46
+rota;Belém do São Francisco;Cabrobó;50
+rota;Belém do São Francisco;Carnaubeira da Penha;68
+rota;Belém do São Francisco;Salgueiro;80
+rota;Belém do São Francisco;Itacuruba;39
+rota;Belo Jardim;Cachoeirinha;54
+rota;Belo Jardim;Sanharó;17
+rota;Belo Jardim;Brejo da Madre de Deus;36
+rota;Belo Jardim;São Bento do Una;26
+rota;Belo Jardim;Tacaimbó;20
+rota;Belo Jardim;São Caitano;34
+rota;Betânia;Calumbi;51
+rota;Betânia;Flores;62
+rota;Betânia;Floresta;92
+rota;Betânia;Serra Talhada;88
+rota;Betânia;Custódia;58
+rota;Bezerros;Camocim de São Félix;18
+rota;Bezerros;Passira;48
+rota;Bezerros;Riacho das Almas;30
+rota;Bezerros;Gravatá;22
+rota;Bezerros;Caruaru;31
+rota;Bezerros;Sairé;14
+rota;Bezerros;Cumaru;40
+rota;Bodocó;Exu;40
+rota;Bodocó;Ouricuri;20
+rota;Bodocó;Granito;42
+rota;Bodocó;Ipubi;33
+rota;Bom Conselho;Saloá;26
+rota;Bom Conselho;Iati;26
+rota;Bom Conselho;Terezinha;17
+rota;Bom Conselho;Lagoa do Ouro;30
+rota;Bom Jardim;João Alfredo;7
+rota;Bom Jardim;Orobó;5
+rota;Bom Jardim;Surubim;22
+rota;Bonito;Camocim de São Félix;14
+rota;Bonito;São Joaquim do Monte;20
+rota;Brejão;Terezinha;7
+rota;Brejão;Lagoa do Ouro;18
+rota;Brejão;Garanhuns;22
+rota;Brejinho;São José do Egito;15
+rota;Brejinho;Itapetim;15
+rota;Brejinho;Santa Terezinha;24
+rota;Brejo da Madre de Deus;Santa Cruz do Capibaribe;36
+rota;Brejo da Madre de Deus;Jataúba;24
+rota;Brejo da Madre de Deus;Caruaru;66
+rota;Brejo da Madre de Deus;Tacaimbó;43
+rota;Buenos Aires;Vicência;12
+rota;Buenos Aires;Nazaré da Mata;14
+rota;Buíque;Tupanatinga;24
+rota;Buíque;Pedra;32
+rota;Cabo de Santo Agostinho;Jaboatão dos Guararapes;21
+rota;Cabo de Santo Agostinho;Escada;27
+rota;Cabo de Santo Agostinho;Ipojuca;17
+rota;Cabrobó;Parnamirim;79
+rota;Cabrobó;Terra Nova;43
+rota;Cabrobó;Salgueiro;67
+rota;Cabrobó;Orocó;38
+rota;Cachoeirinha;Ibirajuba;30
+rota;Cachoeirinha;Lajedo;21
+rota;Cachoeirinha;São Bento do Una;30
+rota;Cachoeirinha;São Caitano;21
+rota;Caetés;Paranatama;19
+rota;Caetés;Capoeiras;5
+rota;Caetés;Venturosa;36
+rota;Caetés;Garanhuns;18
+rota;Calçado;Lajedo;9
+rota;Calçado;Jupi;11
+rota;Calumbi;Triunfo;17
+rota;Calumbi;Serra Talhada;16
+rota;Calumbi;Santa Cruz da Baixa Verde;20
+rota;Camaragibe;São Lourenço da Mata;7
+rota;Camaragibe;Recife;13
+rota;Camocim de São Félix;São Joaquim do Monte;9
+rota;Camocim de São Félix;Sairé;11
+rota;Camutanga;Ferreiros;5
+rota;Camutanga;Itambé;21
+rota;Canhotinho;Lajedo;25
+rota;Canhotinho;Quipapá;23
+rota;Canhotinho;Jurema;39
+rota;Capoeiras;Jucati;17
+rota;Capoeiras;São Bento do Una;30
+rota;Carnaíba;Flores;19
+rota;Carnaíba;Quixaba;11
+rota;Carnaubeira da Penha;Mirandiba;22
+rota;Carnaubeira da Penha;Floresta;45
+rota;Carpina;Paudalho;11
+rota;Carpina;Tracunhaém;4
+rota;Carpina;Lagoa do Carro;6
+rota;Carpina;Lagoa de Itaenga;15
+rota;Carpina;Nazaré da Mata;12
+rota;Caruaru;Frei Miguelinho;34
+rota;Caruaru;Toritama;20
+rota;Caruaru;Riacho das Almas;35
+rota;Caruaru;São Caitano;23
+rota;Casinhas;Vertente do Lério;17
+rota;Casinhas;Orobó;19
+rota;Casinhas;Surubim;12
+rota;Catende;Jaqueira;13
+rota;Catende;Palmares;18
+rota;Cedro;Serrita;30
+rota;Cedro;Salgueiro;48
+rota;Chã de Alegria;Glória do Goitá;9
+rota;Chã de Alegria;Paudalho;13
+rota;Chã Grande;Gravatá;18
+rota;Chã Grande;Primavera;24
+rota;Chã Grande;Pombos;21
+rota;Condado;Itaquitinga;15
+rota;Condado;Itambé;20
+rota;Condado;Goiana;9
+rota;Correntes;Lagoa do Ouro;16
+rota;Correntes;Palmeirina;16
+rota;Correntes;Garanhuns;45
+rota;Cortês;Gravatá;50
+rota;Cortês;Ribeirão;27
+rota;Cumaru;Passira;17
+rota;Cumaru;Riacho das Almas;29
+rota;Cumaru;Surubim;60
+rota;Cupira;Panelas;13
+rota;Cupira;Lagoa dos Gatos;10
+rota;Cupira;São Joaquim do Monte;43
+rota;Custódia;Sertânia;42
+rota;Custódia;Flores;50
+rota;Custódia;Iguaracy;34
+rota;Custódia;Floresta;161
+rota;Custódia;Ibimirim;107
+rota;Dormentes;Santa Filomena;119
+rota;Dormentes;Santa Cruz;77
+rota;Dormentes;Lagoa Grande;120
+rota;Dormentes;Petrolina;152
+rota;Escada;Ribeirão;26
+rota;Escada;Vitória de Santo Antão;35
+rota;Escada;Primavera;22
+rota;Escada;Ipojuca;29
+rota;Exu;Granito;43
+rota;Exu;Moreilândia;31
+rota;Feira Nova;Glória do Goitá;14
+rota;Feira Nova;Limoeiro;11
+rota;Feira Nova;Lagoa de Itaenga;14
+rota;Ferreiros;Timbaúba;10
+rota;Ferreiros;Itambé;25
+rota;Flores;Triunfo;16
+rota;Floresta;Ibimirim;90
+rota;Floresta;Serra Talhada;80
+rota;Floresta;Petrolândia;59
+rota;Frei Miguelinho;Santa Maria do Cambucá;17
+rota;Frei Miguelinho;Riacho das Almas;25
+rota;Frei Miguelinho;Vertentes;9
+rota;Gameleira;Ribeirão;11
+rota;Gameleira;Rio Formoso;32
+rota;Garanhuns;Jucati;25
+rota;Garanhuns;Paranatama;23
+rota;Garanhuns;São João;16
+rota;Glória do Goitá;Vitória de Santo Antão;19
+rota;Glória do Goitá;Lagoa de Itaenga;10
+rota;Goiana;Igarassu;38
+rota;Goiana;Itapissuma;36
+rota;Goiana;Itambé;24
+rota;Granito;Serrita;40
+rota;Granito;Parnamirim;54
+rota;Granito;Moreilândia;8
+rota;Gravatá;Passira;41
+rota;Gravatá;Sairé;40
+rota;Gravatá;Pombos;22
+rota;Iati;Saloá;20
+rota;Iati;Paranatama;40
+rota;Ibimirim;Inajá;48
+rota;Ibimirim;Sertânia;66
+rota;Ibimirim;Manari;60
+rota;Ibimirim;Itaíba;90
+rota;Ibimirim;Tupanatinga;63
+rota;Ibirajuba;Panelas;65
+rota;Ibirajuba;Lajedo;24
+rota;Ibirajuba;Jurema;57
+rota;Igarassu;Paulista;26
+rota;Igarassu;Tracunhaém;57
+rota;Igarassu;Itaquitinga;47
+rota;Igarassu;Itapissuma;7
+rota;Igarassu;Ilha de Itamaracá;21
+rota;Iguaracy;Ingazeira;30
+rota;Iguaracy;Sertânia;43
+rota;Iguaracy;Tabira;42
+rota;Iguaracy;Tuparetama;45
+rota;Inajá;Manari;31
+rota;Inajá;Tacaratu;50
+rota;Ingazeira;São José do Egito;40
+rota;Ingazeira;Tabira;14
+rota;Ingazeira;Tuparetama;18
+rota;Ipojuca;Sirinhaém;27
+rota;Ipubi;Ouricuri;33
+rota;Ipubi;Trindade;17
+rota;Itaíba;Manari;24
+rota;Itaíba;Tupanatinga;26
+rota;Ilha de Itamaracá;Itapissuma;10
+rota;Itapetim;São José do Egito;18
+rota;Itaquitinga;Tracunhaém;25
+rota;Jaboatão dos Guararapes;São Lourenço da Mata;34
+rota;Jaboatão dos Guararapes;Recife;15
+rota;Jaboatão dos Guararapes;Moreno;29
+rota;Jaqueira;Maraial;8
+rota;Jaqueira;Lagoa dos Gatos;47
+rota;Jaqueira;São Benedito do Sul;28
+rota;Jataúba;Pesqueira;70
+rota;Jataúba;Santa Cruz do Capibaribe;37
+rota;Jataúba;Poção;40
+rota;Jatobá;Tacaratu;36
+rota;Jatobá;Petrolândia;29
+rota;João Alfredo;Limoeiro;31
+rota;João Alfredo;Salgadinho;12
+rota;João Alfredo;Surubim;23
+rota;Joaquim Nabuco;Ribeirão;33
+rota;Joaquim Nabuco;Palmares;13
+rota;Jucati;São João;34
+rota;Jucati;São Bento do Una;25
+rota;Jucati;Jupi;6
+rota;Jupi;Lajedo;12
+rota;Jupi;São João;33
+rota;Jupi;São Bento do Una;32
+rota;Jurema;Panelas;21
+rota;Jurema;Quipapá;41
+rota;Lagoa do Carro;Limoeiro;17
+rota;Lagoa do Carro;Lagoa de Itaenga;16
+rota;Lagoa de Itaenga;Paudalho;19
+rota;Lagoa de Itaenga;Limoeiro;23
+rota;Lagoa dos Gatos;Panelas;22
+rota;Lagoa dos Gatos;São Benedito do Sul;27
+rota;Lagoa Grande;Santa Cruz;110
+rota;Lagoa Grande;Petrolina;53
+rota;Lagoa Grande;Santa Maria da Boa Vista;55
+rota;Lajedo;São Bento do Una;21
+rota;Limoeiro;Passira;23
+rota;Limoeiro;Vicência;50
+rota;Limoeiro;Salgadinho;34
+rota;Macaparana;São Vicente Férrer;5
+rota;Macaparana;Timbaúba;22
+rota;Macaparana;Vicência;34
+rota;Machados;São Vicente Férrer;18
+rota;Machados;Vicência;27
+rota;Machados;Orobó;16
+rota;Manari;Tupanatinga;49
+rota;Maraial;Xexéu;50
+rota;Maraial;Palmares;30
+rota;Maraial;São Benedito do Sul;30
+rota;Mirandiba;Serra Talhada;59
+rota;Mirandiba;São José do Belmonte;20
+rota;Mirandiba;Salgueiro;62
+rota;Mirandiba;Verdejante;22
+rota;Moreno;São Lourenço da Mata;30
+rota;Moreno;Vitória de Santo Antão;23
+rota;Nazaré da Mata;Tracunhaém;9
+rota;Nazaré da Mata;Vicência;22
+rota;Olinda;Paulista;7
+rota;Olinda;Recife;6
+rota;Orobó;São Vicente Férrer;43
+rota;Orocó;Santa Maria da Boa Vista;37
+rota;Ouricuri;Santa Filomena;93
+rota;Ouricuri;Parnamirim;62
+rota;Ouricuri;Santa Cruz;53
+rota;Ouricuri;Trindade;26
+rota;Palmares;Xexéu;19
+rota;Palmeirina;São João;27
+rota;Panelas;Quipapá;22
+rota;Panelas;São Benedito do Sul;31
+rota;Paranatama;Saloá;12
+rota;Parnamirim;Serrita;60
+rota;Parnamirim;Terra Nova;30
+rota;Parnamirim;Santa Maria da Boa Vista;80
+rota;Passira;Salgadinho;11
+rota;Passira;Vitória de Santo Antão;45
+rota;Passira;Pombos;36
+rota;Paudalho;São Lourenço da Mata;19
+rota;Pedra;Alagoinha;30
+rota;Pedra;Venturosa;13
+rota;Pesqueira;Sanharó;17
+rota;Pesqueira;Poção;27
+rota;Petrolândia;Tacaratu;23
+rota;Pombos;Vitória de Santo Antão;9
+rota;Pombos;Primavera;27
+rota;Primavera;Ribeirão;29
+rota;Quipapá;São Benedito do Sul;12
+rota;Ribeirão;Sirinhaém;36
+rota;Rio Formoso;Tamandaré;18
+rota;Rio Formoso;Sirinhaém;12
+rota;Salgueiro;Serrita;23
+rota;Salgueiro;Verdejante;25
+rota;Saloá;Terezinha;14
+rota;Santa Cruz;Santa Filomena;36
+rota;Santa Cruz da Baixa Verde;Triunfo;5
+rota;Santa Cruz da Baixa Verde;Serra Talhada;20
+rota;Santa Cruz do Capibaribe;Taquaritinga do Norte;22
+rota;Santa Maria do Cambucá;Vertente do Lério;8
+rota;Santa Maria do Cambucá;Vertentes;15
+rota;Santa Maria do Cambucá;Surubim;15
+rota;Santa Terezinha;São José do Egito;36
+rota;Santa Terezinha;Tabira;40
+rota;São Caitano;Tacaimbó;18
+rota;São José do Belmonte;Serra Talhada;60
+rota;São José do Belmonte;Verdejante;33
+rota;São José do Egito;Tabira;35
+rota;São José do Egito;Tuparetama;18
+rota;São Vicente Férrer;Vicência;26
+rota;Solidão;Tabira;14
+rota;Surubim;Vertente do Lério;13
+rota;Taquaritinga do Norte;Vertentes;9
+rota;Toritama;Vertentes;12
+rota;Recife;Moreno;30
+rota;Garanhuns;Jupi;24
