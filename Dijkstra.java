@@ -7,7 +7,6 @@ class Dijkstra {
         PriorityQueue<Caminho> filaPrioridade = new PriorityQueue<>(Comparator.comparingInt(c -> c.distancia));
         Set<Cidade> visitados = new HashSet<>();
 
-        // Inicializa todas as distâncias como infinito
         for (Cidade cidade : grafo.getAdjacencias().keySet()) {
             distancias.put(cidade, Integer.MAX_VALUE);
         }
@@ -29,8 +28,6 @@ class Dijkstra {
                 }
             }
         }
-
-        // Reconstruindo o caminho
         List<Cidade> caminho = reconstruirCaminho(predecessores, origem, destino);
         return new Rota(caminho, distancias.get(destino));
     }

@@ -11,14 +11,13 @@ public class MontarGrafoRota extends JPanel {
     private final List<Cidade> rota;
     private final Grafo grafo;
     private final Map<Cidade, Point> coordenadas;
-    private Cidade cidadeSelecionada = null; // Cidade clicada pelo usuário
+    private Cidade cidadeSelecionada = null;
 
     public MontarGrafoRota(Grafo grafo, List<Cidade> rota) {
         this.grafo = grafo;
         this.rota = rota;
         this.coordenadas = gerarCoordenadas();
 
-        // Adicionando funcionalidade de clique
         addMouseListener(new MouseAdapter() {
             @Override
             public void mouseClicked(MouseEvent e) {
@@ -57,7 +56,6 @@ public class MontarGrafoRota extends JPanel {
         Graphics2D g2d = (Graphics2D) g;
         g2d.setRenderingHint(RenderingHints.KEY_ANTIALIASING, RenderingHints.VALUE_ANTIALIAS_ON);
 
-        // Desenhar arestas
         g2d.setColor(Color.GRAY);
         for (int i = 0; i < rota.size() - 1; i++) {
             Cidade origem = rota.get(i);
@@ -67,7 +65,6 @@ public class MontarGrafoRota extends JPanel {
 
             g2d.drawLine(p1.x, p1.y, p2.x, p2.y);
 
-            // Exibir a distância diretamente da aresta do grafo
             for (Aresta aresta : grafo.getAdjacencias().get(origem)) {
                 if (aresta.destino.equals(destino)) {
                     int mx = (p1.x + p2.x) / 2;
@@ -78,7 +75,6 @@ public class MontarGrafoRota extends JPanel {
             }
         }
 
-        // Desenhar cidades como nós
         for (Cidade cidade : rota) {
             Point p = coordenadas.get(cidade);
             if (cidade.equals(rota.get(0))) {
@@ -103,7 +99,7 @@ public class MontarGrafoRota extends JPanel {
 
     private void mostrarPontosTuristicos(Cidade cidade) {
         if (cidade.getPontosTuristicos().isEmpty()) {
-            JOptionPane.showMessageDialog(this, "Nenhum ponto turístico relevante em " + cidade.getNome(), "Pontos Turísticos", JOptionPane.INFORMATION_MESSAGE);
+            JOptionPane.showMessageDialog(this, "Nenhum ponto turístico cadastrado em " + cidade.getNome(), "Pontos Turísticos", JOptionPane.INFORMATION_MESSAGE);
         } else {
             StringBuilder mensagem = new StringBuilder("Pontos turísticos em " + cidade.getNome() + ":\n");
             for (PontoTuristico ponto : cidade.getPontosTuristicos()) {
@@ -114,7 +110,7 @@ public class MontarGrafoRota extends JPanel {
     }
 
     public static void exibirGrafoRota(Grafo grafo, List<Cidade> rota) {
-        JFrame frame = new JFrame("Mapa da Rota");
+        JFrame frame = new JFrame("Grafo da Rota");
         frame.setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
         frame.setSize(800, 600);
         frame.setLocationRelativeTo(null);

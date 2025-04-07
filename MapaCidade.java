@@ -18,7 +18,6 @@ public class MapaCidade extends JPanel {
         this.cidade = cidade;
         this.coordenadas = gerarCoordenadas();
 
-        // Adiciona interação com clique do mouse
         addMouseListener(new MouseAdapter() {
             @Override
             public void mouseClicked(MouseEvent e) {
@@ -90,7 +89,7 @@ public class MapaCidade extends JPanel {
     }
 
     public static void exibirMapaCidade(Grafo grafo, Cidade cidade) {
-        JFrame frame = new JFrame("Mapa da Cidade: " + cidade.getNome());
+        JFrame frame = new JFrame("Grafo da Cidade: " + cidade.getNome());
         frame.setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
         frame.setSize(800, 600);
         frame.setLocationRelativeTo(null);

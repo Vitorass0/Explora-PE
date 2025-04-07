@@ -33,7 +33,6 @@ public class MontarGrafo extends JPanel {
         Graphics2D g2d = (Graphics2D) g;
         g2d.setRenderingHint(RenderingHints.KEY_ANTIALIASING, RenderingHints.VALUE_ANTIALIAS_ON);
 
-        // Desenhar arestas (sem rótulo de distância)
         g2d.setColor(Color.GRAY);
         for (Map.Entry<Cidade, List<Aresta>> entry : grafo.getAdjacencias().entrySet()) {
             Cidade origem = entry.getKey();
@@ -47,7 +46,6 @@ public class MontarGrafo extends JPanel {
             }
         }
 
-        // Desenhar cidades como nós
         g2d.setColor(Color.BLUE);
         for (Map.Entry<Cidade, Point> entry : coordenadas.entrySet()) {
             Cidade cidade = entry.getKey();
@@ -63,7 +61,7 @@ public class MontarGrafo extends JPanel {
     public static void exibirGrafo(Grafo grafo) {
         JFrame frame = new JFrame("Visualização do Grafo");
         frame.setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
-        frame.setSize(1200, 800); // Aumentamos o tamanho da tela
+        frame.setSize(1200, 800);
         frame.setLocationRelativeTo(null);
         frame.add(new MontarGrafo(grafo));
         frame.setVisible(true);

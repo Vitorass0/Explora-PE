@@ -22,7 +22,7 @@ public class Main {
             System.out.print("Opção: ");
 
             int opcao = scanner.nextInt();
-            scanner.nextLine(); // Consumir a nova linha
+            scanner.nextLine();
 
             switch (opcao) {
                 case 1:
@@ -50,7 +50,7 @@ public class Main {
                             }
                         }
 
-                        System.out.println("\nDeseja ver o mapa da rota?");
+                        System.out.println("\nDeseja ver o grafo da rota?");
                         System.out.println("1: Sim");
                         System.out.println("2: Não");
                         System.out.print("Opção: ");
@@ -66,7 +66,7 @@ public class Main {
                 case 2:
                     System.out.print("Digite o nome da cidade: ");
                     String nomeCidade = scanner.nextLine();
-                    Cidade cidade = encontrarCidadePorNomeOuPonto(grafo, nomeCidade); // Ajustado!
+                    Cidade cidade = encontrarCidadePorNomeOuPonto(grafo, nomeCidade);
 
                     if (cidade == null) {
                         System.out.println("Cidade não encontrada.");
@@ -84,7 +84,7 @@ public class Main {
                         System.out.println(" - " + pt.getNome());
                     }
 
-                    System.out.println("\nDeseja exibir o mapa da cidade?");
+                    System.out.println("\nDeseja exibir o grafo da cidade?");
                     System.out.println("1: Sim");
                     System.out.println("2: Não");
                     System.out.print("Opção: ");
